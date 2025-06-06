@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: S JAIGANESH
+### Name: P Balasudhan
 
-### Register Number: 212222240037
+### Register Number: 212222240017
 
 ```
 # Required Libraries
